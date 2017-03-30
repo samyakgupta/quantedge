@@ -63,6 +63,10 @@ Sentiment Analysis can be performed on the news that is sourced using HPE HavenO
 
 Sentiment Analysis also known as opinion mining, is the process of determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining. A common use case for this technology is to discover how people feel about a particular topic.
 
+The sentiment analysis algorithm built on MS Azure:
+
+![](https://lh5.googleusercontent.com/sx-kdWqVjRVC_RB93HqCl5v2kTEaqivWgboUMGWu8PRSZMoI38CZNyG28xZQVFRjafeaKaBAO_BVyOE=w1366-h648-rw)
+
 The following image is an example of a search made on our application:
 
 ![](https://lh5.googleusercontent.com/PAonnpa2xIQpV3NcijJ43lH1VntF-0Ded6PLT5FgaSLx6_xRiDoEHXRa17y_R5jgOGVfRUJpIMCBSxQ=w1366-h648-rw)

@@ -67,6 +67,8 @@ The following image is an example of a search made on our application:
 
 ![](https://lh5.googleusercontent.com/PAonnpa2xIQpV3NcijJ43lH1VntF-0Ded6PLT5FgaSLx6_xRiDoEHXRa17y_R5jgOGVfRUJpIMCBSxQ=w1366-h648-rw)
 
+### NOTE:
+The size of the data that we used in most of our calculations include the last 20 years of daily stock data of all the stocks that are listed. The metadata is:
 
- 
+![](https://lh4.googleusercontent.com/V5Menvfl-j_wYEdWjDIo4LFl6Rhlxg4WL2aUkrowGvoWBayYRZQQsg708kS8ByUJnyUYRZdLP_psxQ0=w1366-h648)
  

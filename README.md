@@ -3,7 +3,7 @@
 ### 
 The application enables you to create a portfolio from the various stocks that are listed on the stock market. You can search for stocks based on Sector and Industry.
 
-![](https://lh3.googleusercontent.com/tardr9VNlpO586ZDMhKFZGWIiGgX08XwGPF9OOSpGykXBMl2zowdzptmFONqj3kFo26qEr9cIh4oEGA=w1366-h648-rw)
+![](quantedge/1.png)
 
 
 ![](https://lh5.googleusercontent.com/99jX6UTQng7NovF8-ru-SmfXs2T6bzKMsWQ1yKMtQRgQSaEwrr5FD2dyWQQN8TfXez9aMKDKdmPV_aw=w1366-h648-rw)

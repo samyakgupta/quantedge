@@ -1,5 +1,5 @@
 ### 
-# QUANTEDGE - The Ultimate Stock Market Toolbox and Predictor
+# QUANTEDGE - The Ultimate Stock Market Insights
 ### 
 
 # ANALYSIS DONE ON REAL-TIME DATA
@@ -17,7 +17,7 @@ The following image is an example of a search made on the application:
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/13.png)
 
 # ANALYSIS DONE ON THE HISTORICAL DATA
-### NEURAL NETWORK ANALYTICS MODEL
+## NEURAL NETWORK ANALYTICS MODEL
 A neural network is a powerful computational data model that is able to capture and represent complex input/output relationships. The motivation for the development of neural network technology stemmed from the desire to develop an artificial system that could perform "intelligent" tasks similar to those performed by the human brain. Neural networks resemble the human brain in the following two ways:
 1.	A neural network acquires knowledge through learning.
 2.	A neural network's knowledge is stored within inter-neuron connection strengths known as synaptic weights.
@@ -33,7 +33,7 @@ The results obtained when this Algorithm was run on historical database of the s
 
 From the analysis of the results that out algorithm generated, it can very well be seen that the frequency of lowest error is maximum. This cements the fact that Neural Networks can be used as a reliable Algorithm to predict future stock prices.
 
-### LINEAR REGRESSION ANALYTICS MODEL
+## LINEAR REGRESSION ANALYTICS MODEL
 Linear regression is a statistical procedure for predicting the value of a dependent variable from an independent variable when the relationship between the variables can be described by a linear model.
 A linear regression equation can be written as Yp= mX + b, where Yp is the predicted value of the dependent variable, m is the slope of the regression line, and b is the Y-intercept of the regression line. 
 
@@ -50,7 +50,7 @@ Again the same dataset as used for Neural Networks model was used, with the foll
 From the analysis of results, it can easily be observed that the frequency of higher errors is more in this model. Hence, this method is not as reliable as the Neural Network Model.
 
 # EXTRA FEATURES
-
+### Create your own portfolio
 The application enables you to create a portfolio from the various stocks that are listed on the stock market. You can search for stocks based on Sector and Industry.
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/1.png)
@@ -64,11 +64,12 @@ The application enables you to create a portfolio from the various stocks that a
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/Screenshot%20(26).png)
   
+### Real-time updates on stock in your portfolio 
 The application uses real-time data to provide the user with up to date information on the movement of the stocks that are listed in the portfolio. I have used Yahoo Finance API (now deprecated) to collect this information in real-time (Yahoo's data lags market movements by a few minutes).
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/6.png)
  
-
+### Real-time graphs 
 The important feature of this toolkit are the Technical Analysis graphs which show the exponential moving averages for a short term period i.e. a few days. The data can be adjusted to view the trends for long term periods to understand and derive decisions from the available Technical Analysis.
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/7.png)

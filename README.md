@@ -3,7 +3,7 @@
 ### 
 
 # ANALYSIS DONE ON REAL-TIME DATA
-### SENTIMENT ANALYSIS
+## SENTIMENT ANALYSIS
 Sentiment Analysis can be performed on the news that is sourced using HPE HavenOnDemand. This news is sourced from all over the Internet giving investors the required news. Also, sentiment analysis is done on each news item which tells whether a news in positive or negative. Based on all news items an overall score is given which gives the overall sentiment of the stock. Thus, investors can merely copy the sentiment of a stock in the market and base their investment decisions.
 
 Sentiment Analysis also known as opinion mining, is the process of determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining. A common use case for this technology is to discover how people feel about a particular topic.

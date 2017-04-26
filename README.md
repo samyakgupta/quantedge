@@ -1,28 +1,20 @@
 ### 
 # QUANTEDGE - The Ultimate Stock Market Toolbox and Predictor
 ### 
-The application enables you to create a portfolio from the various stocks that are listed on the stock market. You can search for stocks based on Sector and Industry.
 
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/1.png)
+# ANALYSIS DONE ON REAL-TIME DATA
+### SENTIMENT ANALYSIS
+Sentiment Analysis can be performed on the news that is sourced using HPE HavenOnDemand. This news is sourced from all over the Internet giving investors the required news. Also, sentiment analysis is done on each news item which tells whether a news in positive or negative. Based on all news items an overall score is given which gives the overall sentiment of the stock. Thus, investors can merely copy the sentiment of a stock in the market and base their investment decisions.
 
+Sentiment Analysis also known as opinion mining, is the process of determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining. A common use case for this technology is to discover how people feel about a particular topic.
 
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/2.png)
+The sentiment analysis algorithm built on MS Azure:
 
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/Screenshot%20(11).png)
 
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/3.png)
+The following image is an example of a search made on the application:
 
-
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/Screenshot%20(26).png)
-  
-The application uses real-time data to provide the user with up to date information on the movement of the stocks that are listed in the portfolio. I have used Yahoo Finance API (now deprecated) to collect this information in real-time (Yahoo's data lags market movements by a few minutes).
-
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/6.png)
- 
-
-The important feature of this toolkit are the Technical Analysis graphs which show the exponential moving averages for a short term period i.e. a few days. The data can be adjusted to view the trends for long term periods to understand and derive decisions from the available Technical Analysis.
-
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/7.png)
-
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/13.png)
 
 # ANALYSIS DONE ON THE HISTORICAL DATA
 ### NEURAL NETWORK ANALYTICS MODEL
@@ -56,20 +48,31 @@ Again the same dataset as used for Neural Networks model was used, with the foll
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/11.jpg)
 
 From the analysis of results, it can easily be observed that the frequency of higher errors is more in this model. Hence, this method is not as reliable as the Neural Network Model.
+
+# EXTRA FEATURES
+
+The application enables you to create a portfolio from the various stocks that are listed on the stock market. You can search for stocks based on Sector and Industry.
+
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/1.png)
+
+
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/2.png)
+
+
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/3.png)
+
+
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/Screenshot%20(26).png)
+  
+The application uses real-time data to provide the user with up to date information on the movement of the stocks that are listed in the portfolio. I have used Yahoo Finance API (now deprecated) to collect this information in real-time (Yahoo's data lags market movements by a few minutes).
+
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/6.png)
  
-# ANALYSIS DONE ON REAL-TIME DATA
-### SENTIMENT ANALYSIS
-Sentiment Analysis can be performed on the news that is sourced using HPE HavenOnDemand. This news is sourced from all over the Internet giving investors the required news. Also, sentiment analysis is done on each news item which tells whether a news in positive or negative. Based on all news items an overall score is given which gives the overall sentiment of the stock. Thus, investors can merely copy the sentiment of a stock in the market and base their investment decisions.
 
-Sentiment Analysis also known as opinion mining, is the process of determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining. A common use case for this technology is to discover how people feel about a particular topic.
+The important feature of this toolkit are the Technical Analysis graphs which show the exponential moving averages for a short term period i.e. a few days. The data can be adjusted to view the trends for long term periods to understand and derive decisions from the available Technical Analysis.
 
-The sentiment analysis algorithm built on MS Azure:
+![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/7.png)
 
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/Screenshot%20(11).png)
-
-The following image is an example of a search made on the application:
-
-![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/13.png)
 
 ### NOTE:
 The size of the data that I used in most of my calculations include the last 20 years of daily stock data of all the stocks that are listed in the market. The metadata is:

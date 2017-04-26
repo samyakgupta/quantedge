@@ -50,7 +50,7 @@ Again the same dataset as used for Neural Networks model was used, with the foll
 From the analysis of results, it can easily be observed that the frequency of higher errors is more in this model. Hence, this method is not as reliable as the Neural Network Model.
 
 # EXTRA FEATURES
-### Create your own portfolio
+### 1.Create your own portfolio
 The application enables you to create a portfolio from the various stocks that are listed on the stock market. You can search for stocks based on Sector and Industry.
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/1.png)
@@ -64,12 +64,12 @@ The application enables you to create a portfolio from the various stocks that a
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/Screenshot%20(26).png)
   
-### Real-time updates on stock in your portfolio 
+### 2.Real-time updates on stocks in your portfolio 
 The application uses real-time data to provide the user with up to date information on the movement of the stocks that are listed in the portfolio. I have used Yahoo Finance API (now deprecated) to collect this information in real-time (Yahoo's data lags market movements by a few minutes).
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/6.png)
  
-### Real-time graphs 
+### 3.Real-time graphs 
 The important feature of this toolkit are the Technical Analysis graphs which show the exponential moving averages for a short term period i.e. a few days. The data can be adjusted to view the trends for long term periods to understand and derive decisions from the available Technical Analysis.
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/7.png)

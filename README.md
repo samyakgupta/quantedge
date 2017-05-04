@@ -31,7 +31,7 @@ The results obtained when this Algorithm was run on historical database of the s
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/9.jpg)
 
-From the analysis of the results that out algorithm generated, it can very well be seen that the frequency of lowest error is maximum. This cements the fact that Neural Networks can be used as a reliable Algorithm to predict future stock prices.
+From the analysis of the results that the algorithm generated, it can very well be seen that the **frequency of lowest error is maximum**. This cements the fact that Neural Networks can be used as a reliable Algorithm to predict future stock prices.
 
 ## LINEAR REGRESSION ANALYTICS MODEL
 Linear regression is a statistical procedure for predicting the value of a dependent variable from an independent variable when the relationship between the variables can be described by a linear model.
@@ -47,7 +47,7 @@ Again the same dataset as used for Neural Networks model was used, with the foll
 
 ![](https://raw.githubusercontent.com/samyakgupta/quantedge/master/pictures/11.jpg)
 
-From the analysis of results, it can easily be observed that the frequency of higher errors is more in this model. Hence, this method is not as reliable as the Neural Network Model.
+From the analysis of results, it can easily be observed that the frequency of **higher errors is more in this model compared to Neural Network Model**. Hence, this method is not as reliable as the Neural Network Model.
 
 # EXTRA FEATURES
 ### 1. Create your own portfolio
